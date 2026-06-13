@@ -1,0 +1,45 @@
+body{
+    background-color:rosybrown;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Business-card{
+    width: 300px;
+    margin-top: 100px;
+    background-color:rgba(220, 244, 245, 0.764);
+    padding: 20px;
+    border: 3px solid #333;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+    
+}
+.profile-image{
+    max-width:100%;
+    border-radius: 10px;
+}
+.name{
+    font-size: 30px;
+    font-weight: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.role{
+    color:black;
+        margin-top: 5px;
+        margin-bottom: 5px;
+}
+.skills{
+    color:black;
+        margin-top: 5px;
+        margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
+    color:blue;
+}
+a:hover{
+    color:black;
+}
+a:active{
+    color: black;
+}
